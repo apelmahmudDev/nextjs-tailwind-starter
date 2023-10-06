@@ -1,4 +1,4 @@
-# Project Name
+# nextjs-tailwind-starter
 
 A brief description of your template.
 
@@ -40,4 +40,4 @@ List any software or dependencies that users need to have installed before using
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/apelmahmudDev/nextjs-tailwind-starter.git
